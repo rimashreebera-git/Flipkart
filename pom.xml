@@ -21,6 +21,8 @@
     <!-- Dependencies -->
     <dependencies>
         <!-- Example: JUnit for testing -->
+             <!-- Example: JUnit for testing -->
+             <!-- Example: JUnit for testing -->
         <dependency>
             <groupId>org.junit.jupiter</groupId>
             <artifactId>junit-jupiter</artifactId>
