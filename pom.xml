@@ -5,10 +5,7 @@
 
     <!-- Model version -->
     <modelVersion>4.0.0</modelVersion>
-         <version>1.0-SNAPSHOT</version>
-         <version>1.0-SNAPSHOT</version>
-
-    <!-- Project details -->
+<!-- Project details -->
     <groupId>com.example</groupId>
     <artifactId>demo-app</artifactId>
     <version>1.0-SNAPSHOT</version>
