@@ -5,6 +5,8 @@
 
     <!-- Model version -->
     <modelVersion>4.0.0</modelVersion>
+         <modelVersion>4.0.0</modelVersion>
+         <modelVersion>4.0.0</modelVersion>
 
     <!-- Project details -->
     <groupId>com.example</groupId>
